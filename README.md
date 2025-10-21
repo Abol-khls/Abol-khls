@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abol-khls
-- 🌱 I’m currently learning Front-End and UI/UX
+- 🌱 I’m currently learning Front-End and Back-end
 - 
 
 <!---
